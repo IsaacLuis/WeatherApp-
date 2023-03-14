@@ -14,3 +14,5 @@ export const WEATHER_API_URL = 'https://api.openweathermap.org/data/2.5';
 
 
 export const WEATHER_API_KEY = "23854785f74132c1481a5c44d54f86b7";
+
+

@@ -1,6 +1,10 @@
 .title {
   font-size: 23px;
   font-weight: 700;
+  display: flex;
+  margin: 15px;
+  justify-content: center;
+  
 }
 
 .daily-item {
